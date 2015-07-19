@@ -1,0 +1,29 @@
+body {
+    background-color: #999;
+    color: #fff;
+}
+
+.page-wrap:after { content: "Wide layout";}
+
+.main-navigation { 
+    float: left; 
+    width: 19%; 
+    padding: 1em 0;
+    min-height: 200px;
+}
+    
+    .main-navigation span {
+        display: block;
+        padding: 1em 0;
+    }
+    
+.main-wrapper { 
+    float: right; 
+    width: 80%; 
+    padding: 1em 0;
+    min-height: 200px;
+}
+
+.main-footer {
+    clear: both;
+}

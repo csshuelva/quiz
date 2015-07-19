@@ -1,0 +1,8 @@
+body {
+    background-color: #333;
+    color: #fff;
+    font-size: xx-large;
+}
+
+.page-wrap:after { content: "Smartphone layout";}
+
